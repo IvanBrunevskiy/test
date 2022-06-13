@@ -1,0 +1,10 @@
+{
+    "name": "ivan_brunevskiy/php_oop",
+    "description": "education php",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {}
+}
